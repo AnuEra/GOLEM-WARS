@@ -1,0 +1,175 @@
+GLOBAL
+BEGIN
+	THIS_PROG_X			180
+	THIS_PROG_Y			521
+	THIS_PROG_WIDTH			390
+	THIS_PROG_HEIGHT		10
+
+	TOTAL_PROG_X			180
+	TOTAL_PROG_Y			538
+	TOTAL_PROG_WIDTH		390
+	TOTAL_PROG_HEIGHT		10
+	
+	PROG_TEXT_X			180
+	PROG_TEXT_Y			550
+	PROG_TEXT_WIDTH			390
+	PROG_TEXT_HEIGHT		14
+
+	WIDTH				800
+	HEIGHT				600
+	
+	NOTICE_X			33
+	NOTICE_Y			186
+	NOTICE_WIDTH			735
+	NOTICE_HEIGHT			319
+	
+	AD_X				64
+	AD_Y				483
+	AD_WIDTH			0
+	AD_HEIGHT			0
+
+	ID_X				475
+	ID_Y				521
+	ID_WIDTH			109
+	ID_HEIGHT			13
+
+	PWD_X				475
+	PWD_Y				546
+	PWD_WIDTH			109
+	PWD_HEIGHT			13
+
+	LOG_X				35
+	LOG_Y				517
+	LOG_WIDTH			125
+	LOG_HEIGHT			47
+END
+
+WINDOW
+BEGIN
+	NORESIZING			1
+END
+
+COLOR
+BEGIN
+	PROG_TEXT			255, 255, 255
+END
+
+AREA FRAME
+BEGIN
+	IMAGE_NORMAL		selectgame_frame.bmp, 0, 0, 800, 600
+	POSITION			0, 0
+END
+
+AREA TITLE
+BEGIN
+	IMAGE_NORMAL		selectgame_frame.bmp, 7, 7, 242, 33
+	POSITION			7, 7
+END
+
+AREA TEXT_ID_PASSWORD
+BEGIN
+	IMAGE_NORMAL		login_text_id_password.bmp
+	POSITION		410, 519
+END
+
+
+AREA SYS_MINIMIZE
+BEGIN
+	IMAGE_NORMAL		sys.bmp, 0, 0, 19, 19
+	IMAGE_CLICK			sys.bmp, 0, 19, 19, 38
+	POSITION			743, 7
+END
+
+
+AREA SYS_CLOSE
+BEGIN
+	IMAGE_NORMAL		sys.bmp, 19, 0, 38, 19
+	IMAGE_CLICK			sys.bmp, 19, 19, 38, 38
+	POSITION			764, 7
+END
+
+AREA BTN_RAKION
+BEGIN
+	IMAGE_NORMAL		selectgame_rakionimg.bmp, 0, 0, 184, 100
+	IMAGE_CLICK			selectgame_rakionimg.bmp, 0, 100, 184, 200
+	POSITION			36, 84
+END
+
+AREA BTN_RAKION_SEL
+BEGIN
+	IMAGE_NORMAL		selectgame_rakionimg.bmp, 0, 100, 184, 200
+	POSITION			36, 84
+END
+
+
+AREA TEXT_VERSION_CHECKING
+BEGIN
+	IMAGE_NORMAL		selectgame_versioncheck.bmp
+	POSITION			33, 515
+END
+
+
+AREA TEXT_COMING_SOON
+BEGIN
+	IMAGE_NORMAL		selectgame_comingsoon.bmp
+	POSITION			33, 515
+END
+
+AREA BTN_START
+BEGIN
+	IMAGE_NORMAL		selectgame_start.bmp, 0, 0, 83, 56
+	IMAGE_RIDE			selectgame_start.bmp, 0, 56, 83, 112
+	IMAGE_CLICK			selectgame_start.bmp, 0, 112, 83, 168
+	POSITION			598, 513
+END
+
+
+AREA BTN_CANCEL
+BEGIN
+	IMAGE_NORMAL		selectgame_cancel.bmp, 0, 0, 83, 56
+	IMAGE_RIDE			selectgame_cancel.bmp, 0, 56, 83, 112
+	IMAGE_CLICK			selectgame_cancel.bmp, 0, 112, 83, 168
+	POSITION			598, 513
+END
+
+
+AREA BTN_FULL_DOWNLOAD
+BEGIN
+	IMAGE_NORMAL		selectgame_fulldown.bmp, 0, 0, 83, 56
+	IMAGE_RIDE			selectgame_fulldown.bmp, 0, 56, 83, 112
+	IMAGE_CLICK			selectgame_fulldown.bmp, 0, 112, 83, 168
+	POSITION			598, 513
+END
+
+
+AREA BTN_OPTION
+BEGIN
+	IMAGE_NORMAL		selectgame_option.bmp, 0, 0, 83, 56
+	IMAGE_RIDE			selectgame_option.bmp, 0, 56, 83, 112
+	IMAGE_CLICK			selectgame_option.bmp, 0, 112, 83, 168
+        IMAGE_DISABLE	selectgame_option.bmp, 0, 168, 83, 224 
+	POSITION			687, 513
+END
+
+
+AREA BTN_MANUAL_PATCH
+BEGIN
+	IMAGE_NORMAL		selectgame_start.bmp, 0, 0, 83, 56
+	IMAGE_RIDE			selectgame_start.bmp, 0, 56, 83, 112
+	IMAGE_CLICK			selectgame_start.bmp, 0, 112, 83, 168
+	POSITION			598, 513
+END
+
+
+AREA FRONT_IMG
+BEGIN
+	IMAGE_NORMAL		front_img.bmp
+	POSITION		33, 186
+END
+
+AREA BTN_SOFTNYX
+BEGIN
+	IMAGE_NORMAL		registrate.bmp, 0, 0, 204, 111
+	IMAGE_CLICK			registrate.bmp, 0, 111, 204, 220
+	POSITION			550, 68
+END

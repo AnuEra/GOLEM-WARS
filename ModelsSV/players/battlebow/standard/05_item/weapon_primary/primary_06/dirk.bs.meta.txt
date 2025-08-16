@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\battlebow\standard\05_item\weapon_primary\primary_06\dirk.bs
+original_ext: .bs
+size_bytes: 251
+sha256: 5b7d522db539e6c3389cfd1b2c4ae63f882ed253de2a02f82dedeb541bcaf477
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000000c00000074656d705c6469726b2e617300007a44020000000b000000426c6164655f537461727400000000000000000000803f0000008000000000000080bf00000000000000000000008000000000000000000000803f00000080000000000000008000000080f304353f0000000000000080f30435bf000000000000403f09000000426c6164655f456e640b000000426c6164655f5374617274000000000000803f0000000000000000000080bf0000000000000000000040bf00000000000000000000803f000000000000403f00000000000000800000803f0000000000000000000000000000403fcdcccc3d
+preview_ascii: SKEL............temp\dirk.as..zD........Blade_Start...........?...................................?..................5?..........5.......@?....Blade_End....Blade_Start.......?......................@............?......@?...........?..............@?...=

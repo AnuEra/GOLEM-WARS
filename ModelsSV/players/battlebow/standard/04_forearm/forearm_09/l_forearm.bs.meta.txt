@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\battlebow\standard\04_forearm\forearm_09\l_forearm.bs
+original_ext: .bs
+size_bytes: 273
+sha256: e3675cb45a283b8296ab8a6aa185c98583a3393b9d55c06373f01a4c50fbb7b9
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001100000074656d705c6c5f666f726561726d2e617300007a4402000000100000004c5f466f726561726d5f426f6e65303100000000000000800000803fbd3786b5000000000000803f00000000000000800000000000000080bd3786b5000080bf0000000000000000000000000000000002d0bdb4f304353ff304353f02d0bdb400000000cdcccc3d100000004c5f466f726561726d5f426f6e653032100000004c5f466f726561726d5f426f6e653031000000000000803fbd3786b5000000000000803f0000000000000000cdcccc3d00000080bd3786b5000080bf00000000cdcccc3d00000000000000800000803f000000000000000000000000cdcccc3dcdcccc3d
+preview_ascii: SKEL............temp\l_forearm.as..zD........L_Forearm_Bone01...........?.7.........?.................7............................5?..5?...........=....L_Forearm_Bone02....L_Forearm_Bone01.......?.7.........?...........=.....7.............=...........?...............=...=

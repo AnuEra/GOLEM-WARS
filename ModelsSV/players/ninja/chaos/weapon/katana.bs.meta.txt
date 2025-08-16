@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\chaos\weapon\katana.bs
+original_ext: .bs
+size_bytes: 284
+sha256: 14f6cff20d56752094663044644cbbfa5f27b25c5ca6ef69b29de14e8bd3f2a7
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000002d0000006d6f64656c7373765c706c61796572735c6e696e6a615c6368616f735c776561706f6e5c6b6174616e612e617300007a44020000000b000000426c6164655f53746172740000000082a87b37efff7f3f06b98bba000000800000803f82a87bb782a87bb70000008082a87bb706b98bbaefff7fbf00000080000000800000008000000080e1d0c2b94905353f9704353f7760c8b900000000bf47933f09000000426c6164655f456e640b000000426c6164655f537461727482a87b37efff7f3f06b98bba4ac890370000803f82a87bb782a87bb7bf47933f82a87bb706b98bbaefff7fbf4ac890b7bf47933f00000000000000800000803f000000000000000000000080bf47933fcdcccc3d
+preview_ascii: SKEL........-...modelssv\players\ninja\chaos\weapon\katana.as..zD........Blade_Start......{7...?...........?..{...{.......{.............................I.5?..5?w`.......G.?....Blade_End....Blade_Start..{7...?....J..7...?..{...{..G.?..{.........J....G.?...........?.............G.?...=

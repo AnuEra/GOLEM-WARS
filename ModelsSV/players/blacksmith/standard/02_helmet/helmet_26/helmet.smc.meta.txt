@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\02_helmet\helmet_26\helmet.smc
+original_ext: .smc
+size_bytes: 428
+sha256: 568bd130cca5f379a914dcf975fcc1b0850df2c6aa9fe212a512eb3f1dee377c
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 4e414d45202268656c6d6574223b0d0a7b0d0a20204d4553482020202020202020202054464e4d20224d6f64656c7353565c706c61796572735c626c61636b736d6974685c7374616e646172645c30325f68656c6d65745c68656c6d65745f32365c68656c6d65742e626d223b0d0a202054455854555245530d0a20207b0d0a202020202270756d706b696e5f68656c6d6574222020202054464e4d2020224d6f64656c7353565c706c61796572735c626c61636b736d6974685c7374616e646172645c30325f68656c6d65745c68656c6d65745f32365c70756d706b696e5f68656c6d65742e746578223b0d0a20207d0d0a2020534b454c45544f4e2020202054464e4d2020224d6f64656c7353565c706c61796572735c626c61636b736d6974685c7374616e646172645c30325f68656c6d65745c68656c6d65745f32365c68656c6d65742e6273223b0d0a2020414e494d534554202020202054464e4d2020224d6f64656c7353565c706c61796572735c626c61636b736d6974685c7374616e646172645c30325f68656c6d65745c68656c6d65745f32365c68656c6d65742e6261223b0d0a7d0d0a
+preview_ascii: NAME "helmet";..{..  MESH          TFNM "ModelsSV\players\blacksmith\standard\02_helmet\helmet_26\helmet.bm";..  TEXTURES..  {..    "pumpkin_helmet"    TFNM  "ModelsSV\players\blacksmith\standard\02_helmet\helmet_26\pumpkin_helmet.tex";..  }..  SKELETON    TFNM  "ModelsSV\players\blacksmith\standard\02_helmet\helmet_26\helmet.bs";..  ANIMSET     TFNM  "ModelsSV\players\blacksmith\standard\02_helmet\helmet_26\helmet.ba";..}..

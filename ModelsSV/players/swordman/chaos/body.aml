@@ -1,0 +1,9 @@
+MESHLODLIST
+{
+  MAX_DISTANCE 7;
+  #INCLUDE "modelssv\players\swordman\chaos\Body.shp"
+  #INCLUDE "modelssv\players\swordman\chaos\Body.am"
+  MAX_DISTANCE 1000;
+  #INCLUDE "ModelsSV\Players\Swordman\Chaos\Body_LOD.shp"
+  #INCLUDE "ModelsSV\Players\Swordman\Chaos\Body_LOD.am"
+}

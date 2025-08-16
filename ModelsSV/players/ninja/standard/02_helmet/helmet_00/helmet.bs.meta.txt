@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\standard\02_helmet\helmet_00\helmet.bs
+original_ext: .bs
+size_bytes: 308
+sha256: 331dd83e0ce6b0f28d583552bdb9821b296cdfef07655e0a773dcba2aa144348
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000003d0000006d6f64656c7373765c706c61796572735c6e696e6a615c7374616e646172645c30325f68656c6d65745c68656c6d65745f30305c68656c6d65742e617300007a44020000000d00000048656c6d65745f426f6e65303100000000bd3786350000803f00000080000000000000803fbd3786b500000080000000800000008000000080000080bf0000008000000000000000800000008000000000f904353fed04353f00000080000000004ab7c53d0d00000048656c6d65745f426f6e6530320d00000048656c6d65745f426f6e653031bd3786350000803f00000080fa51cf330000803fbd3786b5000000004ab7c53d0000000000000000000080bf000000004ab7c53d00000080000000800000803f0000000000000000000000004ab7c53dcdcccc3d
+preview_ascii: SKEL........=...modelssv\players\ninja\standard\02_helmet\helmet_00\helmet.as..zD........Helmet_Bone01.....7.5...?...........?.7............................................5?..5?........J..=....Helmet_Bone02....Helmet_Bone01.7.5...?.....Q.3...?.7......J..=................J..=...........?............J..=...=

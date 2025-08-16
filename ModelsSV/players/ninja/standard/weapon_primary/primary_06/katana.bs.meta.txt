@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\standard\weapon_primary\primary_06\katana.bs
+original_ext: .bs
+size_bytes: 306
+sha256: 5e4f1cb785b23e1ec4026525f7b6b11601278211b830e375234d9cefacabb78f
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c0600000001000000430000006d6f64656c7373765c706c61796572735c6e696e6a615c7374616e646172645c776561706f6e5f7072696d6172795c7072696d6172795f30365c6b6174616e612e617300007a44020000000b000000426c6164655f53746172740000000030629fb70000803f00000080000000000000803f30629f3730629f370000008030629f3700000080000080bf000000800000000000000080000000807566e1b68304353f6405353f7566e13600000000f2d05f3f09000000426c6164655f456e640b000000426c6164655f537461727430629fb70000803f000000009e588bb70000803f30629f3730629f37f2d05f3f30629f3700000000000080bf9e588b37f2d05f3f00000000000000800000803f000000000000000000000080f2d05f3fcdcccc3d
+preview_ascii: SKEL........C...modelssv\players\ninja\standard\weapon_primary\primary_06\katana.as..zD........Blade_Start....0b.....?...........?0b.70b.7....0b.7........................uf....5?d.5?uf.6......_?....Blade_End....Blade_Start0b.....?.....X.....?0b.70b.7.._?0b.7.........X.7.._?...........?.............._?...=

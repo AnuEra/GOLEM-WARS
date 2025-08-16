@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\swordman\standard\weapon_primary\primary_07\sword.bs
+original_ext: .bs
+size_bytes: 308
+sha256: cfaefed55663dbb70de724ac8232e5ed9a57d67a2aa9797bc1329244ba8e800f
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c0600000001000000450000004d6f64656c7353565c506c61796572735c53776f72646d616e5c5374616e646172645c576561706f6e5f5072696d6172795c5072696d6172795f30375c53776f72642e415300407b44020000000b000000426c6164655f537461727400000000000000000000803fbd3786b5000000000000803f00000080000000800000000000000080bd3786b5000080bf0000000000000000000000000000000002d0bdb4f304353ff304353f02d0bdb4000000009a99b93f09000000426c6164655f456e640b000000426c6164655f5374617274000000000000803fbd3786b5000000000000803f00000000000000009a99b93f00000000bd3786b5000080bf000000009a99b93f00000000000000800000803f0000000000000000000000809a99b93fcdcccc3d
+preview_ascii: SKEL........E...ModelsSV\Players\Swordman\Standard\Weapon_Primary\Primary_07\Sword.AS.@{D........Blade_Start...........?.7.........?.................7............................5?..5?...........?....Blade_End....Blade_Start.......?.7.........?...........?.....7.............?...........?...............?...=

@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\04_forearm\forearm_17\r_forearm.bs
+original_ext: .bs
+size_bytes: 243
+sha256: 6d1f34f4fa4bd063b4d644f41e891f07e1f7169e154d43b70b9a7a13563f3023
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001100000074656d705c725f666f726561726d2e617300007a440200000006000000426f6e65303100000000000000000000803fbd3706b6000000000000803f00000000000000000000000000000000bd3706b6000080bf0000000000000000000000000000000002d03db5f304353ff304353f02d03db5000000009a99993e06000000426f6e65303206000000426f6e653031000000000000803fbd3706b6000000000000803f00000000000000009a99993e00000000bd3706b6000080bf000000009a99993e00000000000000800000803f0000000000000000000000009a99993ecdcccc3d
+preview_ascii: SKEL............temp\r_forearm.as..zD........Bone01...........?.7.........?.................7........................=...5?..5?..=........>....Bone02....Bone01.......?.7.........?...........>.....7.............>...........?...............>...=

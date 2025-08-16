@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\mage\chaos\weapon\mace.smc
+original_ext: .smc
+size_bytes: 154
+sha256: 10f759745308e7ca92d70b2bfee7c924b0edf6184fb647a6addf8ab27aa2a5f4
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 4e414d4520224d616365223b0d0a7b0d0a2020534b454c45544f4e2020202054464e4d2020226d6f64656c7373765c706c61796572735c6d6167655c6368616f735c776561706f6e5c4d6163652e6273223b0d0a2020414e494d534554202020202054464e4d2020226d6f64656c7373765c706c61796572735c6d6167655c6368616f735c776561706f6e5c4d6163652e6261223b0d0a7d0d0a
+preview_ascii: NAME "Mace";..{..  SKELETON    TFNM  "modelssv\players\mage\chaos\weapon\Mace.bs";..  ANIMSET     TFNM  "modelssv\players\mage\chaos\weapon\Mace.ba";..}..

@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\weapon_secondary\secondary_14\axe.aal
+original_ext: .aal
+size_bytes: 81
+sha256: 2a4b8d1c573167d5b27888aa892302541b3701162f34be26c0e99ac2d491de50
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 414e494d5345544c4953540d0a7b0d0a202054524553484f4c4420303b0d0a2020434f4d50524553494f4e2046414c53453b0d0a202023494e434c554445202274656d705c6178652e6161220d0a7d0d0a
+preview_ascii: ANIMSETLIST..{..  TRESHOLD 0;..  COMPRESION FALSE;..  #INCLUDE "temp\axe.aa"..}..

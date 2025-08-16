@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\04_forearm\forearm_19\l_forearm.bs
+original_ext: .bs
+size_bytes: 255
+sha256: 39c91d1448aa3ce5f8a938f59f95bc94874c7d9f20cb994845b3c2d21559d0d1
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001100000074656d705c6c5f666f726561726d2e617300007a44020000000a0000004c48435f426f6e65303000000000b0c87fbf9e42aebb04ca263db98a85bd64ca873988a17d3f48fc0a3ee5d2f83dc63328bd05e10a3ead6a7dbfb1c403bdb98a85bde5d2f83db1c403bd84eba73c7931a6ba675a7f3fc0488b3d3bfd103e9a99993e0a0000004c48435f426f6e6530310a0000004c48435f426f6e653030b0c87fbf9e42aebb04ca263d18dbbabe64ca873988a17d3f48fc0a3ea2fbf83dc63328bd05e10a3ead6a7dbfa03a36bd9a99993e00000000000000800000803f0000000000000000000000009a99993ecdcccc3d
+preview_ascii: SKEL............temp\l_forearm.as..zD........LHC_Bone00.........B....&=....d..9..}?H..>...=.3(....>.j}............=.......<y1..gZ.?.H.=;..>...>....LHC_Bone01....LHC_Bone00.....B....&=....d..9..}?H..>...=.3(....>.j}..:6....>...........?...............>...=

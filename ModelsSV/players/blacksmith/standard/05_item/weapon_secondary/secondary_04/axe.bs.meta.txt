@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\05_item\weapon_secondary\secondary_04\axe.bs
+original_ext: .bs
+size_bytes: 320
+sha256: 8c0b45947e4a27f1e90b3347bf12501a8a5179a6c57eb0703a0584846f125f33
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c0600000001000000510000006d6f64656c7373765c706c61796572735c626c61636b736d6974685c7374616e646172645c30355f6974656d5c776561706f6e5f7365636f6e646172795c7365636f6e646172795f30345c6178652e617300007a44020000000b000000426c6164655f537461727400000000000000000000803f0000008000000000000080bf00000000000000000000008000000000000000000000803f00000080000000000000008000000080f304353f0000000000000080f30435bf000000000000403f09000000426c6164655f456e640b000000426c6164655f5374617274000000000000803f0000000000000000000080bf0000000000000000000040bf00000000000000000000803f000000000000403f00000000000000800000803f0000000000000000000000000000403fcdcccc3d
+preview_ascii: SKEL........Q...modelssv\players\blacksmith\standard\05_item\weapon_secondary\secondary_04\axe.as..zD........Blade_Start...........?...................................?..................5?..........5.......@?....Blade_End....Blade_Start.......?......................@............?......@?...........?..............@?...=

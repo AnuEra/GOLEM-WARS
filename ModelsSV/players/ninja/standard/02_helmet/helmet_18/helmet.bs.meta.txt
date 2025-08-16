@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\standard\02_helmet\helmet_18\helmet.bs
+original_ext: .bs
+size_bytes: 261
+sha256: fd4eaa35e1382a94f4c9ad55d4c3029cfae0796d6cfc5f72d2bf709e2b9157d0
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000000e00000074656d705c68656c6d65742e617300007a44020000000d00000048656c6d65745f426f6e65303100000000000000800000803f00000080000000000000803f0000000000000000000000000000000000000080000080bf0000000000000000000000000000000000000080f304353ff304353f0000000000000000cdcccc3d0d00000048656c6d65745f426f6e6530320d00000048656c6d65745f426f6e653031000000000000803f00000000000000000000803f0000000000000000cdcccc3d0000000000000000000080bf00000000cdcccc3d00000000000000800000803f000000800000000000000000cdcccc3dcdcccc3d
+preview_ascii: SKEL............temp\helmet.as..zD........Helmet_Bone01...........?...........?..............................................5?..5?...........=....Helmet_Bone02....Helmet_Bone01.......?...........?...........=...................=...........?...............=...=

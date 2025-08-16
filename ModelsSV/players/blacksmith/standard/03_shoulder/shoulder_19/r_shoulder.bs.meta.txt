@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\03_shoulder\shoulder_19\r_shoulder.bs
+original_ext: .bs
+size_bytes: 253
+sha256: 0ca9f8c7304ba7c7e7f2a43a9197ea66440bfad7545f7d142011901b9532aa9a
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001200000074656d705c725f73686f756c6465722e617300007a44020000000900000052535f426f6e653030000000000000803f00000080000000004b03bfbd00000080000080bfbd378635a33e493d00000080bd3786b5000080bf1826d3bc4b03bfbda33e493d1826d3bcbd3706b50000803f00000080000000004441de3d9a99993e0900000052535f426f6e6530310900000052535f426f6e6530300000803f00000080000000008eb1533e00000000000080bfbd378635a33e493d00000080bd3786b5000080bf1826d3bc9a99993e00000000000000800000803f0000000000000000000000009a99993ecdcccc3d
+preview_ascii: SKEL............temp\r_shoulder.as..zD........RS_Bone00.......?........K............7.5.>I=.....7.......&..K....>I=.&...7.....?........DA.=...>....RS_Bone01....RS_Bone00...?..........S>.........7.5.>I=.....7.......&.....>...........?...............>...=

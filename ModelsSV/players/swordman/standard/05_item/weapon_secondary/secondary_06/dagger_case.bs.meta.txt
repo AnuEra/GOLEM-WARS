@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\swordman\standard\05_item\weapon_secondary\secondary_06\dagger_case.bs
+original_ext: .bs
+size_bytes: 260
+sha256: e2f18d54a307f32486c71b3d29642e22ad162d7c3c59433cc1a3053dcabd004d
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001300000074656d705c6461676765725f636173652e617300007a44020000000b000000436173655f426f6e65303100000000000000000000803fff0502b8000000000000803f00000080000000800000000000000080ff0502b8000080bf0000000000000000000000000000000082e137b7f304353ff304353f82e137b700000000124b4a3e0b000000436173655f426f6e6530320b000000436173655f426f6e653031000000000000803fff0502b8000000000000803f0000008000000000124b4a3e00000000ff0502b8000080bf00000000124b4a3e00000080000000000000803f000000000000000000000000124b4a3ecdcccc3d
+preview_ascii: SKEL............temp\dagger_case.as..zD........Case_Bone01...........?...........?..........................................7...5?..5?..7......KJ>....Case_Bone02....Case_Bone01.......?...........?.........KJ>.................KJ>...........?.............KJ>...=

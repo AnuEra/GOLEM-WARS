@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\swordman\standard\02_helmet\helmet_00\helmet.bs
+original_ext: .bs
+size_bytes: 311
+sha256: facf1dc752357e7632d7e937ee38fc671533992463c303dc7d893d895ae3aeac
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c0600000001000000400000006d6f64656c7373765c706c61796572735c73776f72646d616e5c7374616e646172645c30325f68656c6d65745c68656c6d65745f30305c68656c6d65742e617300007a44020000000d00000048656c6d65745f426f6e65303100000000000000000000803f9c5349b6000000000000803f000000800000008000000000000000809c5349b6000080bf00000000000000000000000000000000025c8eb5f304353ff304353f025c8eb5000000001024cf3d0d00000048656c6d65745f426f6e6530320d00000048656c6d65745f426f6e653031000000000000803f9c5349b6000000000000803f00000080000000001024cf3d000000009c5349b6000080bf000000001024cf3d00000000000000800000803f0000000000000000000000001024cf3dcdcccc3d
+preview_ascii: SKEL........@...modelssv\players\swordman\standard\02_helmet\helmet_00\helmet.as..zD........Helmet_Bone01...........?.SI........?.................SI......................\....5?..5?.\.......$.=....Helmet_Bone02....Helmet_Bone01.......?.SI........?.........$.=.....SI..........$.=...........?.............$.=...=

@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\battlebow\standard\weapon_secondary\secondary_15\arrow_case.bs
+original_ext: .bs
+size_bytes: 244
+sha256: c45d45b5e311ee772df3374706eaf8fd180e11a36fa8db2ce7323ec511a18811
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001200000074656d705c6172726f775f636173652e617300007a440200000006000000426f6e6530310000000000000080000080bf00000080000000000000803f00000080000000800000000000000000000000800000803f00000000000000000000000000000000f304353f0000000000000080f304353f00000000cdcc4c3e06000000426f6e65303206000000426f6e65303100000000000080bf00000080000000000000803f0000008000000000cdcc4c3e00000000000000000000803f00000000cdcc4c3e00000080000000000000803f000000000000000000000000cdcc4c3ecdcccc3d
+preview_ascii: SKEL............temp\arrow_case.as..zD........Bone01.......................?.......................?..................5?..........5?......L>....Bone02....Bone01...................?..........L>...........?......L>...........?..............L>...=

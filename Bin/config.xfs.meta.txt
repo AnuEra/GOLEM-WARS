@@ -1,0 +1,10 @@
+﻿kind: text_xfs_pointer_backed
+path: Bin\config.xfs
+size_bytes: 156
+note: tracked via Git LFS (repo stores a text pointer).
+--- HEAD (first 100 lines) ---
+4WhLReJ+b8LKElDDQqv98ogZfQAJdWojp/edpuJVz6MI29hJZGIS8eUzeyCtKl2W
+/W8YhZbGqKfm8s07+G3ApGroGSenU+urzkYidvfTKKUAIt11NpUYC8UyR0epWdCNmZy0Y/tzmJkb6cf31z7Zbw==
+--- TAIL (last 100 lines) ---
+4WhLReJ+b8LKElDDQqv98ogZfQAJdWojp/edpuJVz6MI29hJZGIS8eUzeyCtKl2W
+/W8YhZbGqKfm8s07+G3ApGroGSenU+urzkYidvfTKKUAIt11NpUYC8UyR0epWdCNmZy0Y/tzmJkb6cf31z7Zbw==

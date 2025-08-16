@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\mage\standard\02_helmet\helmet_01\helmet.bs
+original_ext: .bs
+size_bytes: 307
+sha256: a2d802ceb26db128c2d742585d8cbaca74bab7e332b06ffb77fb87323d945e58
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000003c0000006d6f64656c7373765c706c61796572735c6d6167655c7374616e646172645c30325f68656c6d65745c68656c6d65745f30315c68656c6d65742e617300007a44020000000d00000048656c6d65745f426f6e65303100000000bd3786350000803f00000080000000000000803fbd3786b500000080000000800000008000000080000080bf0000008000000000000000800000008000000000f904353fed04353f0000008000000000785eca3d0d00000048656c6d65745f426f6e6530320d00000048656c6d65745f426f6e653031bd3786350000803f000000800533d4330000803fbd3786b500000000785eca3d0000000000000000000080bf00000000785eca3d00000080000000800000803f000000000000000000000000785eca3dcdcccc3d
+preview_ascii: SKEL........<...modelssv\players\mage\standard\02_helmet\helmet_01\helmet.as..zD........Helmet_Bone01.....7.5...?...........?.7............................................5?..5?........x^.=....Helmet_Bone02....Helmet_Bone01.7.5...?.....3.3...?.7......x^.=................x^.=...........?............x^.=...=

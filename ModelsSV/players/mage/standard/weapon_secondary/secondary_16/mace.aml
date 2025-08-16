@@ -1,0 +1,6 @@
+MESHLODLIST
+{
+  MAX_DISTANCE 1000;
+  #INCLUDE "temp\Mace.shp"
+  #INCLUDE "temp\Mace.am"
+}

@@ -1,0 +1,5 @@
+SKELETONLODLIST
+{
+  MAX_DISTANCE 1000;
+  #INCLUDE "temp\pr_axe.as"
+}

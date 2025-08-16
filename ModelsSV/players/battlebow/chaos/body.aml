@@ -1,0 +1,9 @@
+MESHLODLIST
+{
+  MAX_DISTANCE 7;
+  #INCLUDE "modelssv\players\battlebow\chaos\Body.shp"
+  #INCLUDE "modelssv\players\battlebow\chaos\Body.am"
+  MAX_DISTANCE 1000;
+  #INCLUDE "ModelsSV\Players\Battlebow\Chaos\Body_LOD.shp"
+  #INCLUDE "ModelsSV\Players\Battlebow\Chaos\Body_LOD.am"
+}

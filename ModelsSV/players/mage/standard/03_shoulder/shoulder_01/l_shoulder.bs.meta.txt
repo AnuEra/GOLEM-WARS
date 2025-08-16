@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\mage\standard\03_shoulder\shoulder_01\l_shoulder.bs
+original_ext: .bs
+size_bytes: 327
+sha256: fe50023903f2adc9fa0be3e9fcb1eea8b8406aec31e5db10d90a63c6017655fc
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c0600000001000000440000006d6f64656c7373765c706c61796572735c6d6167655c7374616e646172645c30335f73686f756c6465725c73686f756c6465725f30315c6c5f73686f756c6465722e617300007a4402000000110000004c5f53686f756c6465725f426f6e65303100000000000000000000803f8be1eab6000000000000803f000000800000008000000000000000808be1eab6000080bf00000000000000000000000000000000021626b6f304353ff304353f021626b600000000afeacc3d110000004c5f53686f756c6465725f426f6e653032110000004c5f53686f756c6465725f426f6e653031000000000000803f8be1eab6000000000000803f0000008000000000afeacc3d000000008be1eab6000080bf00000000afeacc3d00000080000000800000803f000000000000000000000000afeacc3dcdcccc3d
+preview_ascii: SKEL........D...modelssv\players\mage\standard\03_shoulder\shoulder_01\l_shoulder.as..zD........L_Shoulder_Bone01...........?...........?..........................................&...5?..5?..&........=....L_Shoulder_Bone02....L_Shoulder_Bone01.......?...........?...........=...................=...........?...............=...=

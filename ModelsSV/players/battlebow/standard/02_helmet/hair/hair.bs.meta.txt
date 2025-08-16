@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\battlebow\standard\02_helmet\hair\hair.bs
+original_ext: .bs
+size_bytes: 299
+sha256: 127732a91bba162647e51fdca5eeecd95475fed90f1fbfca26c3e0c1b7f201f8
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000003a0000006d6f64656c7373765c706c61796572735c626174746c65626f775c7374616e646172645c30325f68656c6d65745c686169725c686169722e617300007a44020000000b000000486169725f426f6e65303100000000000000000000803fa48cb8b7000000000000803f00000080000000800000000000000080a48cb8b7000080bf00000000000000000000000000000000017f02b7f304353ff304353f017f02b7000000000342cb3d0b000000486169725f426f6e6530320b000000486169725f426f6e653031000000000000803fa48cb8b7000000000000803f00000000000000000342cb3d00000080a48cb8b7000080bf000000000342cb3d00000000000000000000803f0000000000000000000000000342cb3dcdcccc3d
+preview_ascii: SKEL........:...modelssv\players\battlebow\standard\02_helmet\hair\hair.as..zD........Hair_Bone01...........?...........?..............................................5?..5?.........B.=....Hair_Bone02....Hair_Bone01.......?...........?.........B.=.................B.=...........?.............B.=...=

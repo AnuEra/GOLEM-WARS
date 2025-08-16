@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\mage\standard\02_helmet\helmet_24\helmet.bs
+original_ext: .bs
+size_bytes: 240
+sha256: e2ed5a46ac78cdaee50db8fd4e9ee5483288f8e0b2ce6e816defa0a20e1f6e11
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000000e00000074656d705c68656c6d65742e617300007a440200000006000000426f6e65303100000000000000000000803fbd3786b5bd3786b50000803f00000080000000800000000000000080bd3786b5000080bf00000080bd3786b5000000000000008002d0bdb4f304353ff304353f02d0bdb4bd378635cdcccc3e06000000426f6e65303206000000426f6e653031000000000000803fbd3786b5bd3786b50000803f0000008000000080cdcccc3e00000000bd3786b5000080bf00000000cdcccc3e00000000000000800000803f000000000000000000000000cdcccc3ecdcccc3d
+preview_ascii: SKEL............temp\helmet.as..zD........Bone01...........?.7...7.....?.................7...........7................5?..5?.....7.5...>....Bone02....Bone01.......?.7...7.....?...........>.....7.............>...........?...............>...=

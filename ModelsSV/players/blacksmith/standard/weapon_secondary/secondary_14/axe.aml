@@ -1,0 +1,6 @@
+MESHLODLIST
+{
+  MAX_DISTANCE 1000;
+  #INCLUDE "temp\Axe.shp"
+  #INCLUDE "temp\Axe.am"
+}

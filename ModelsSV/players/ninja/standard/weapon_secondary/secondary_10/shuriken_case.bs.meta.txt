@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\standard\weapon_secondary\secondary_10\shuriken_case.bs
+original_ext: .bs
+size_bytes: 262
+sha256: 8e0061ed8016f1ef590110db45e60a7ea7b1928fe0958720f40ce4ff2e5af6c9
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001500000074656d705c73687572696b656e5f636173652e617300007a44020000000b000000436173655f426f6e65303100000000000000000000803f00000080000000000000803f0000008000000080000000000000008000000080000080bf0000000000000000000000000000000000000000f304353ff304353f0000008000000000f016c83d0b000000436173655f426f6e6530320b000000436173655f426f6e653031000000000000803f00000080000000000000803f0000008000000000f016c83d0000000000000000000080bf00000000f016c83d00000000000000800000803f000000000000000000000000f016c83dcdcccc3d
+preview_ascii: SKEL............temp\shuriken_case.as..zD........Case_Bone01...........?...........?..............................................5?..5?...........=....Case_Bone02....Case_Bone01.......?...........?...........=...................=...........?...............=...=

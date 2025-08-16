@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\swordman\standard\04_forearm\forearm_25\l_forearm.bs
+original_ext: .bs
+size_bytes: 243
+sha256: 70364d297150e69213613c32b3016d2cc23734a01a59a061b2f9c43ce35ce0cf
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001100000074656d705c6c5f666f726561726d2e617300007a440200000006000000426f6e65303100000000000000800000803f00000080000000000000803f0000000000000080000000800000008000000080000080bf0000008000000000000000800000008000000000f304353ff304353f00000080000000009a99993e06000000426f6e65303206000000426f6e653031000000000000803f00000080000000000000803f00000000000000009a99993e0000000000000000000080bf000000009a99993e00000000000000800000803f0000000000000000000000009a99993ecdcccc3d
+preview_ascii: SKEL............temp\l_forearm.as..zD........Bone01...........?...........?..............................................5?..5?...........>....Bone02....Bone01.......?...........?...........>...................>...........?...............>...=

@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\weapon_secondary\secondary_00\axe_case.bs
+original_ext: .bs
+size_bytes: 319
+sha256: 2dc513f1e940da8207c059f4607b23af4c72347acb57aa333b97085a7985bbb4
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000004e0000006d6f64656c7373765c706c61796572735c626c61636b736d6974685c7374616e646172645c776561706f6e5f7365636f6e646172795c7365636f6e646172795f30305c6178655f636173652e617300007a44020000000b000000436173655f426f6e65303100000000000000000000803f931a5ab7000000000000803f00000080000000800000000000000080931a5ab7000080bf0000000000000000000000000000000002399ab6f304353ff304353f02399ab600000000e5294b3e0b000000436173655f426f6e6530320b000000436173655f426f6e653031000000000000803f931a5ab7000000000000803f0000000000000080e5294b3e00000000931a5ab7000080bf00000000e5294b3e00000000000000800000803f000000000000000000000000e5294b3ecdcccc3d
+preview_ascii: SKEL........N...modelssv\players\blacksmith\standard\weapon_secondary\secondary_00\axe_case.as..zD........Case_Bone01...........?..Z........?..................Z......................9....5?..5?.9.......)K>....Case_Bone02....Case_Bone01.......?..Z........?.........)K>......Z..........)K>...........?.............)K>...=

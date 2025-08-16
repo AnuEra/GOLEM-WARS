@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\standard\04_forearm\forearm_10\r_forearm.bs
+original_ext: .bs
+size_bytes: 273
+sha256: c3cafe9c58bb41820c6f15d73ca0c90505fb6af688d75d5d7b71c906f8cdfeba
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001100000074656d705c725f666f726561726d2e617300007a440200000010000000525f466f726561726d5f426f6e65303100000000000000000000803fbd3786b5000000800000803f000000000000008097aa34bc00000080bd3786b5000080bf000000800000008097aa34bc0000008002d0bdb4f304353ff304353f02d0bdb497aa343ccdcccc3d10000000525f466f726561726d5f426f6e65303210000000525f466f726561726d5f426f6e653031000000000000803fbd3786b5000000000000803f00000000000000007a37b63d00000000bd3786b5000080bf00000000cdcccc3d00000080000000800000803f000000800000000000000080cdcccc3dcdcccc3d
+preview_ascii: SKEL............temp\r_forearm.as..zD........R_Forearm_Bone01...........?.7.........?..........4......7................4...........5?..5?......4<...=....R_Forearm_Bone02....R_Forearm_Bone01.......?.7.........?........z7.=.....7.............=...........?...............=...=

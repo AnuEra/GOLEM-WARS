@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\battlebow\standard\02_helmet\helmet_10\helmet.bs
+original_ext: .bs
+size_bytes: 240
+sha256: 11b5054b165f467cfaa51468994cb16188615f19ad47bdb495c314de964f8a86
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000000e00000074656d705c68656c6d65742e617300007a440200000006000000426f6e65303900000000000000800000803f00000080000000800000803f0000000000000080000000000000008000000080000080bf0000000000000080000000000000000000000000f304353ff304353f0000008000000000cdcccc3d06000000426f6e65313006000000426f6e653039000000000000803f00000080000000000000803f0000000000000000cdcccc3d0000000000000000000080bf00000000cdcccc3d00000000000000800000803f000000000000000000000000cdcccc3dcdcccc3d
+preview_ascii: SKEL............temp\helmet.as..zD........Bone09...........?...........?..............................................5?..5?...........=....Bone10....Bone09.......?...........?...........=...................=...........?...............=...=

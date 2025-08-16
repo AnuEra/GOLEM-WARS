@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\mage\standard\04_forearm\forearm_00\r_forearm.bs
+original_ext: .bs
+size_bytes: 321
+sha256: a864db60f23ef896d1c1a4166fa779f788371a9be9ca0b1105d548e65af8c51c
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c0600000001000000410000006d6f64656c7373765c706c61796572735c6d6167655c7374616e646172645c30345f666f726561726d5c666f726561726d5f30305c725f666f726561726d2e617300007a440200000010000000525f466f726561726d5f426f6e653031000000009df6943b58ff7f3f8be16ab7973872b958ff7f3f9df694bb00000000931a5a37000000008be16ab7000080bf00000080973872b9931a5a3700000080b1b5a5b62a6e353f839b343fb1b5a5b6b59a7239863dcd3d10000000525f466f726561726d5f426f6e65303210000000525f466f726561726d5f426f6e6530319df6943b58ff7f3f8be16ab78b7c6b3958ff7f3f9df694bb00000000d043cd3d000000008be16ab7000080bf00000000863dcd3d00000080000000000000803f000000000000000000000000863dcd3dcdcccc3d
+preview_ascii: SKEL........A...modelssv\players\mage\standard\04_forearm\forearm_00\r_forearm.as..zD........R_Forearm_Bone01.......;X..?..j..8r.X..?..........Z7......j..........8r...Z7........*n5?..4?......r9.=.=....R_Forearm_Bone02....R_Forearm_Bone01...;X..?..j..|k9X..?.........C.=......j..........=.=...........?.............=.=...=

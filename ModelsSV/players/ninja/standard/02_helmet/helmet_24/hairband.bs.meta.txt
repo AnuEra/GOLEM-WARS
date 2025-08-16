@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\ninja\standard\02_helmet\helmet_24\hairband.bs
+original_ext: .bs
+size_bytes: 242
+sha256: 5e5357d6d5baf47fdb805f6ca3c1ff80fc9430ba25222bb3512ead70d5678a8b
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000001000000074656d705c6861697262616e642e617300007a440200000006000000426f6e65303100000000000000800000803f00000080000000000000803f0000000000000000000000000000000000000080000080bf0000000000000000000000000000000000000080f304353ff304353f00000000000000009a99993e06000000426f6e65303206000000426f6e653031000000000000803f00000000000000000000803f00000000000000009a99993e0000000000000000000080bf000000009a99993e00000000000000800000803f0000008000000000000000009a99993ecdcccc3d
+preview_ascii: SKEL............temp\hairband.as..zD........Bone01...........?...........?..............................................5?..5?...........>....Bone02....Bone01.......?...........?...........>...................>...........?...............>...=

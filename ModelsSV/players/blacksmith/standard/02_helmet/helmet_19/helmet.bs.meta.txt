@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\02_helmet\helmet_19\helmet.bs
+original_ext: .bs
+size_bytes: 240
+sha256: 825aaf21b702785508cc89a3ff35fd7125c6a29f509ad2148b9cbf08c36b6592
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000000e00000074656d705c68656c6d65742e617300007a440200000006000000426f6e6530310000000000000000000080bf00000080000000000000803f0000000000000000608f093b00000080000000800000803f105c653d00000000608f093b105c653df304353f0000008000000000f304353f4d85653d9a99993e06000000426f6e65303206000000426f6e65303100000000000080bf00000080000000000000803f0000000000000000b9ac9a3e00000080000000000000803f105c653d9a99993e00000080000000000000803f0000000000000000000000009a99993ecdcccc3d
+preview_ascii: SKEL............temp\helmet.as..zD........Bone01.......................?........`..;...........?.\e=....`..;.\e=..5?..........5?M.e=...>....Bone02....Bone01...................?...........>...........?.\e=...>...........?...............>...=

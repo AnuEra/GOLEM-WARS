@@ -1,0 +1,9 @@
+MESHLODLIST
+{
+  MAX_DISTANCE 7;
+  #INCLUDE "test\Body.shp"
+  #INCLUDE "test\Body.am"
+  MAX_DISTANCE 1000;
+  #INCLUDE "ModelsSV\Players\Mage\Chaos\Body_LOD.shp"
+  #INCLUDE "ModelsSV\Players\Mage\Chaos\Body_LOD.am"
+}

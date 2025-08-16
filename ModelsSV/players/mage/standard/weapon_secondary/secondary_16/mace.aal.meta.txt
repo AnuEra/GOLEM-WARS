@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\mage\standard\weapon_secondary\secondary_16\mace.aal
+original_ext: .aal
+size_bytes: 46
+sha256: e9176687785befd9eca6765f6a98d4f4e0ff0a6aab1262a8c99e6612f3925583
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 414e494d5345544c4953540d0a7b0d0a202023494e434c554445202274656d705c6d6163652e6161220d0a7d0d0a
+preview_ascii: ANIMSETLIST..{..  #INCLUDE "temp\mace.aa"..}..

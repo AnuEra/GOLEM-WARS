@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\weapon_secondary\secondary_14\axe_case.aal
+original_ext: .aal
+size_bytes: 50
+sha256: 517ad1329d25345683d29f90cbd62b5de906d97a3986e125c243b80ff5f33167
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 414e494d5345544c4953540d0a7b0d0a202023494e434c554445202274656d705c6178655f636173652e6161220d0a7d0d0a
+preview_ascii: ANIMSETLIST..{..  #INCLUDE "temp\axe_case.aa"..}..

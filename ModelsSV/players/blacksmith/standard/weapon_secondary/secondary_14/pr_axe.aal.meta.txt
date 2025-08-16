@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\blacksmith\standard\weapon_secondary\secondary_14\pr_axe.aal
+original_ext: .aal
+size_bytes: 48
+sha256: f5f6f8c4718c8cdce8a85bf88d782a23705c95d4b54ff954e38ef76a449486f2
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 414e494d5345544c4953540d0a7b0d0a202023494e434c554445202274656d705c70725f6178652e6161220d0a7d0d0a
+preview_ascii: ANIMSETLIST..{..  #INCLUDE "temp\pr_axe.aa"..}..

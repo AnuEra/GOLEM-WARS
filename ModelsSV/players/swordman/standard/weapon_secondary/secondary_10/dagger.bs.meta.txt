@@ -1,0 +1,10 @@
+﻿kind: binary_or_asset
+source_rel: ModelsSV\players\swordman\standard\weapon_secondary\secondary_10\dagger.bs
+original_ext: .bs
+size_bytes: 256
+sha256: 868b23a07cfafa4dd4a6e751005fdb18440286a55d0c1d7534dadeabe9300cee
+directive: DO NOT USE BINARY DIRECTLY.
+convert_to: models -> .obj (text), images -> .png, other -> detailed json/description.
+note: this file was not copied; only this text sidecar was created.
+preview_hex: 534b454c06000000010000000e00000074656d705c6461676765722e617300007a44020000000c0000004461676765725f537461727400000000000000000000803facc527b7000000000000803f00000080000000800000000000000080acc527b7000080bf0000000000000000000000000000000002446db6f304353ff304353f02446db6000000006afbff3e0a0000004461676765725f456e640c0000004461676765725f5374617274000000000000803facc527b7000000000000803f00000080000000006afbff3e00000000acc527b7000080bf000000006afbff3e00000000000000800000803f0000000000000000000000006afbff3ecdcccc3d
+preview_ascii: SKEL............temp\dagger.as..zD........Dagger_Start...........?..'........?..................'......................Dm...5?..5?.Dm.....j..>....Dagger_End....Dagger_Start.......?..'........?........j..>......'.........j..>...........?............j..>...=
